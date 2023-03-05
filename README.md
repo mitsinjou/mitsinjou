@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome in my GitHub!! 
 
-<!--
-**mitsinjou/mitsinjou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from Madagascar (the island not the movie 😊 !)
 
-Here are some ideas to get you started:
+📱 Digital enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently in professional reconversion  
+
+🎓 I recently joined SAYNA Academy as a student
+
+🖥️ I will first use this account for my projects in the context of my apprenticeship
+
+📫 How to reach me for web development projects or to challenge me (why not?): tsinjo.contact@gmail.com
