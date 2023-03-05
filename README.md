@@ -10,4 +10,4 @@ I am from Madagascar (the island not the movie 😊 !)
 
 🖥️ I will first use this account for my projects in the context of my apprenticeship
 
-📫 How to reach me for web development projects or to challenge me (why not?): tsinjo.contact@gmail.com
+📫 To reach me for web development projects or to challenge me (why not?): tsinjo.contact@gmail.com
