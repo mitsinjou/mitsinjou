@@ -1,5 +1,7 @@
 ### Welcome in my GitHub!! 
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
 I am from Madagascar (the island not the movie 😊 !)
 
 📱 Digital enthusiast
