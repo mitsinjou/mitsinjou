@@ -1,6 +1,6 @@
 ### Welcome in my GitHub!! 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,latex,linux,md,py,r)](https://skillicons.dev)
 
 I am from Madagascar (the island not the movie 😊 !)
 
