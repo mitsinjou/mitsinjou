@@ -4,7 +4,7 @@
 
 I am from Madagascar (the island not the movie 😊 !)
 
-📱 Digital enthusiast
+📱 Technology enthousiast
 
 🌱 I’m currently in professional reconversion  
 
